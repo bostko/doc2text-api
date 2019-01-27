@@ -1,24 +1,11 @@
-# README
+# Doc2text API
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Provides HTTP interface for the doc2text gem https://github.com/bostko/doc2text
 
-Things you may want to cover:
+To start it up execute `rails s`.
 
-* Ruby version
+Use it online
+=============
 
-* System dependencies
+[doc2text.com](http://doc2text.com)
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
