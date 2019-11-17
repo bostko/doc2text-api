@@ -9,8 +9,8 @@ Rails.application.config.middleware.insert_before 0, Rack::Cors do
   allow do
     origins 'doc2text.com'
 
-    resource '*',
+    resource '/process_binary/odt',
       headers: :any,
-      methods: [:get, :post, :put, :patch, :delete, :options, :head]
+      methods: [:post, :options, :head]
   end
 end
