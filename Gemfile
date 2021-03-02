@@ -8,7 +8,7 @@ gem 'actionpack', '~> 6.1.3'
 gem 'railties', '~> 6.1.3'
 
 # Use Puma as the app server
-gem 'puma', '~> 4.3.1'
+gem 'puma', '~> 4.3.5'
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
